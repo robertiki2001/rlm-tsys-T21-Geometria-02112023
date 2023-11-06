@@ -1,8 +1,8 @@
-package JUnit.Junit09_Geometria;
+package Geometria;
 
-import JUnit.Junit09_Geometria.dto.Geometria;
+import Geometria.dto.Geometria;
 
-public class App 
+public class mainApp 
 {
     public static void main( String[] args )
     {
